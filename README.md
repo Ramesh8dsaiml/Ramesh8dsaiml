@@ -5,7 +5,6 @@
 # 💫 Hi 👋, I'm Ramesh Kumar
 
 ### **Aspiring Data Analyst & Data Scientist || AI & Data Science Enthusiast || Python Developer from India**
-
 📧 Email Me 👉 **[ramesh962003@gmail.com](mailto:ramesh962003@gmail.com)** for Collaboration, Projects, or Tech Discussions 🚀
 
 * 🔭 **I’m currently working on:** Data Analytics, NLP & Machine Learning Projects
@@ -16,24 +15,18 @@
 * 📫 **How to reach me:** [ramesh962003@gmail.com](mailto:ramesh962003@gmail.com)
 * ⚡ **Fun fact:** I love solving real-world problems using Data & AI 🚀
 
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ramesh8dsaiml&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_ramesh87918) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramesh2026/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramesh962003@gmail.com) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/ramesh1000)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rameshkumar87911)
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
