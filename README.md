@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ramesh8dsaiml/Ramesh8dsaiml/blob/main/rameshbaner.png?raw=true" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Ramesh8dsaiml/Ramesh8dsaiml/main/rameshbaner.png" alt="Banner" />
 </p>
 
 # 💫 Hi 👋, I'm Ramesh Kumar
