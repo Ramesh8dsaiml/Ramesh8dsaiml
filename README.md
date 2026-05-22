@@ -24,6 +24,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_ramesh87918) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramesh2026/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramesh962003@gmail.com) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/ramesh1000)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rameshkumar87911)
 
 <!-- Snake Game Repo View -->
 
@@ -69,6 +71,9 @@
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+## 📈 Contribution Graph
+
+[![Ramesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramesh8dsaiml&theme=react-dark)](https://github.com/Ramesh8dsaiml)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ramesh8dsaiml&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
