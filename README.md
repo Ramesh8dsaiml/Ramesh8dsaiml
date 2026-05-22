@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="PASTE_YOUR_IMAGE_LINK_HERE" alt="Banner" />
+</p>
+
 # 💫 Hi 👋, I'm Ramesh Kumar
 
 ### **Aspiring Data Analyst & Data Scientist || AI & Data Science Enthusiast || Python Developer from India**
